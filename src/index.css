@@ -1,0 +1,16 @@
+@import "tailwindcss";
+h1{
+    line-height: 48px;
+    letter-spacing: 0.25px;  
+}
+
+h2{
+    line-height: 28.5px;
+    letter-spacing: 0.5px;
+}
+
+p{
+    line-height: 24px;
+    letter-spacing: 0.5px;
+}
+
